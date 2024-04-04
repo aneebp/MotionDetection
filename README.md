@@ -14,5 +14,5 @@ pip install opencv-python mediapipe
 ```
 
 ## Features
--Real-time motion detection using pose estimation.
--Visualization of detected poses and FPS on each frame.
+- Real-time motion detection using pose estimation
+- Visualization of detected poses and FPS on each frame
